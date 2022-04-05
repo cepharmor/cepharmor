@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cepharmor
+- 👋 Hi, I’m CephArmor
 - A secure API for Ceph storage system!
 
